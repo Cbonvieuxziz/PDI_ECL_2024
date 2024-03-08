@@ -1,6 +1,6 @@
 # PDI Ecole Centrale de Lille 2024
 
-This repository encompasses the work conducted by Antonin MOREL as part of the PDI project at Ecole Centrale de Lille, in collaboration with Gridvise.
+This repository contains the work conducted by Antonin MOREL as part of the PDI project at Ecole Centrale de Lille, in collaboration with Gridvise.
 
 The objective of this project is to implement various models for predicting electricity price trends.
 
@@ -21,12 +21,12 @@ The objective of this project is to implement various models for predicting elec
 To test the models, install the dependencies running 
 
 ```
-$ python -m pip install -r requirements.txt
+$ python3 -m pip install -r requirements.txt
 ```
 
 and simply run the notebook in the corresponding directory.
 
-For the website, you must have node installed. Go into the 'web-app' directtory and run
+For the website, you must have node installed. Go into the 'web-app' directory and run
 
 ```
 $ npm install

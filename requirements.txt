@@ -1,3 +1,14 @@
 nltk
 scikit-learn
 requests
+torch
+numpy
+matplotlib
+pandas
+seaborn
+datetime
+csv
+tqdm
+os
+json
+newspaper

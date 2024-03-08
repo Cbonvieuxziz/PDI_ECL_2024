@@ -38,4 +38,4 @@ to set up the environnement and
 $ npm run start
 ```
 
-to start the developpment server
+to start the development server
